@@ -1,8 +1,3 @@
-body {
-    box-sizing: border-box;
-    display: block;
-}
-
 header h1 {
     margin-left: 175px;
     font-family: 'Nunito Sans', sans-serif;
@@ -11,7 +6,7 @@ header h1 {
 .container_colors {
     border: 2px solid gray;
     width: 80%;
-    height: 320px;
+    padding-bottom: 20px;
     padding-left: 20px ;
     margin: 10px auto;
     font-family: 'Nunito Sans', sans-serif;
@@ -20,7 +15,6 @@ header h1 {
 .container_fonts {
     border: 2px solid gray;
     width: 80%;
-    height: 470px;
     padding-left: 20px ;
     margin: 10px auto;
 }
